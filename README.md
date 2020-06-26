@@ -7,7 +7,7 @@ Write your name.
 ## SECOND STEP
 Write your favourite food :grin:.
 ### THIRD STEP
-Write your hoby/hobies.
+Write your hobby/hobbies.
 ### LAST STEP
 I can't type more shitty things. Please do whatever u want. Finally commit your change and send me pull request :relaxed:
 
