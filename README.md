@@ -12,4 +12,4 @@ Write your hoby/hobies.
 I can't type more shitty things. Please do whatever u want. Finally commit your change and send me pull request :relaxed:
 
 
-*pushed by |(starhasibul)| |(https://github.com/starhasibul)| and |(snehashis365)| |(https://github.com/snehashis365)| but created by |(Susmo31)| |(https://github.com/Susmo31)|*
+*pushed by Hasibul https://github.com/starhasibul and Snehashis https://github.com/snehashis365 but created by Susmita https://github.com/Susmo31 .*
